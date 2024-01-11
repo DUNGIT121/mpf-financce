@@ -1,0 +1,9 @@
+.custom-img {
+    width: 10rem;
+    height: 5rem;
+  }
+
+  .custom-header {
+    display: flex;
+    align-items: center;
+  }
